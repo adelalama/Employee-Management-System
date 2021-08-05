@@ -4,7 +4,6 @@ require("console.table");
 
 init();
 
-// Display logo text, load main prompts
 function init() {
   const introText = "Welcome to the employee Management system!"
 
@@ -80,7 +79,6 @@ async function loadMainPrompts() {
     }
   ]);
 
-  // Call the appropriate function depending on what the user chose
   switch (choice) {
     case "VIEW_EMPLOYEES":
       return viewEmployees();
