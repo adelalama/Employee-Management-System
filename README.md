@@ -32,6 +32,8 @@ To use this application you will need to have downloaded Node JS and Express. To
 
 This menu will allow you to manipulate the information that was seeded to the application to meet your requirements.
   
+This link will take you to a video walkthrough of the app: https://drive.google.com/file/d/1C0NvFvKYqZgTHwTAWw0g8rGAR-l8L8Ot/view
+
 ## Contributing
 
 
